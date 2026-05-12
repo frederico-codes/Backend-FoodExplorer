@@ -54,7 +54,7 @@ Este é o back-end da aplicação **Food Explorer**, um sistema de gerenciamento
 
 A API está disponível publicamente em:
 
-🔗 https://backend-foodexplorer-z0oj.onrender.com
+🔗 https://backend-foodexplorer-mqoi.onrender.com
 
 ### 1. Clonar o repositório
 
